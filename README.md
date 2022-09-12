@@ -1,4 +1,4 @@
-# AutonomousCar-ROS
+# AutonomousCar simulation using ROS
 
 <p>
   <img align="left" width="425" height="400" src="https://github.com/sagar448/Self-Driving-Car-3D-Simulator-With-CNN/blob/master/src/3D%20Car%20Simulator.png">
